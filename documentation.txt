@@ -1,0 +1,4 @@
+API reference mens how to use it below
+https://docs.mongodb.com/manual/reference/method/ObjectId/
+http://mongodb.github.io/node-mongodb-native/3.6/api/Collection.html#insertMany
+https://mongoosejs.com/docs/validation.html
